@@ -1,3 +1,2 @@
 #!/bin/bash
-print Hello,World
-ls > hello world
+print Hello,World | ls > helloworld
