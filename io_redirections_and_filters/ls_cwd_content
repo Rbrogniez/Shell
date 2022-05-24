@@ -1,0 +1,27 @@
+total 92
+drwxrwxr-x 2 romain romain 4096 mai   24 17:47 .
+drwxrwxr-x 6 romain romain 4096 mai   24 14:24 ..
+-rwxrwxr-x 1 romain romain   14 mai   24 14:24 #0-hello_world#
+-rwxrwxr-x 1 romain romain   32 mai   24 14:27 0-hello_world
+-rwxrw-r-- 1 romain romain   25 mai   24 14:54 #1-confused_smiley#
+-rwxrw-r-- 1 romain romain   29 mai   24 15:00 1-confused_smiley
+-rwxrw-r-- 1 romain romain   28 mai   24 15:17 2-hellofile
+-rwxrw-r-- 1 romain romain   61 mai   24 15:14 2-hellofile~
+-rwxrw-r-- 1 romain romain   45 mai   24 16:42 3-twofiles
+-rwxrw-r-- 1 romain romain   35 mai   24 16:49 4-lastlines
+-rwxrw-r-- 1 romain romain   34 mai   24 16:48 4-lastlines~
+-rwxrw-r-- 1 romain romain   35 mai   24 16:52 5-firstlines
+-rwxrw-r-- 1 romain romain   36 mai   24 17:17 6-third_line
+-rwxrw-r-- 1 romain romain   78 mai   24 17:37 7-file
+-rwxrw-r-- 1 romain romain   69 mai   24 17:34 7-file~
+-rwxrw-r-- 1 romain romain   36 mai   24 17:46 8-cwd_state
+-rwxrw-r-- 1 romain romain   41 mai   24 17:42 8-cwd_state~
+-rwxrwxr-x 1 romain romain   47 mai   24 14:24 git
+-rw-rw-r-- 1 romain romain  972 mai   24 17:14 iacta
+-rw-rw-r-- 1 romain romain    0 mai   24 17:14 iacta~
+-rw-rw-r-- 1 romain romain   19 mai   24 17:45 ls
+-rw-rw-r-- 1 romain romain    0 mai   24 17:47 ls_cwd_content
+-rw-rw-r-- 1 romain romain   17 mai   24 14:24 README.md
+-rwxrw-r-- 1 romain romain   67 mai   24 15:10 s
+-rw-rw-r-- 1 romain romain   48 mai   24 17:10 test
+-rw-rw-r-- 1 romain romain    0 mai   24 17:10 test~
