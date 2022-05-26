@@ -1,2 +1,2 @@
-#!/bin/bash
+l#!/bin/bash
 grep "$find_user" /etc/passwd | sort
