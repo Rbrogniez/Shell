@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+#Create loop with while commande
 x=1
 while [ $x -le 10 ]
 do
