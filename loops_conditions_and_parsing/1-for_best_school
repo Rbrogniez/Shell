@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-*first script do loop
+#first script do loop
 for dix in {1..10}
 do
  echo "Best School"
