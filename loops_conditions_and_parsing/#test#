@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
-while ((n=0;$n -lt 10;n++))
+while ((n=0;n10;n++))
 do echo "Best School"
    done
