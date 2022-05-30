@@ -2,5 +2,6 @@
 #first script do loop
 for i in {1..10}
 do
-  echo "Best School"
+    echo "Best School $1"
+    
 done
