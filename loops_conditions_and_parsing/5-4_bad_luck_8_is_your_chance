@@ -5,11 +5,11 @@ while [ $n -lt 10 ]
 do
     if [[ $n -eq 3 ]]
     then
-	echo "Bad luck"
+	echo "bad luck"
     elif [[ $n -eq 7 ]]
 	
     then
-	echo "Good luck"
+	echo "good luck"
     else
 	echo "Best School"
 fi
