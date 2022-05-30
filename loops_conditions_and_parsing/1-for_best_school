@@ -1,3 +1,7 @@
 #!/usr/bin/env bash
 #first script do loop
-for i in {1..10}; do echo "Best School"; done
+for ((n=0;n<10;n++))
+do
+ echo "Best School"
+done
+
