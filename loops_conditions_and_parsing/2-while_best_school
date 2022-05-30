@@ -1,8 +1,3 @@
 #!/usr/bin/env bash
 #Create loop with while commande
-x=1
-while [ $x -le 10 ]
-do
-    echo "Welcome School"
-x=$(($x +1))
-done
+n=0; while [[ $n -lt 10 ]]; do echo "Best School"; n=$((n+1)); done
