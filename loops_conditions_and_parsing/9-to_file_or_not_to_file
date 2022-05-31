@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-
+#file not or not to file 
 F=school
 
 if [ -e "$F" ]
