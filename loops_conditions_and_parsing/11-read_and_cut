@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+
+while read -r
+do
+    cut -d ":" f1,3,5
+done
+/etc/passwd
