@@ -1,3 +1,7 @@
 #!/usr/bin/env bash
-#read and cut
-while read 
+
+while read -r
+do
+    cut -d ":" f1,3,5
+done
+< /etc/passwd
