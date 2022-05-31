@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-
+#11 read and cut
 while read -r
 do
     cut -d ":" f1,3,5
