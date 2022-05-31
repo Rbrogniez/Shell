@@ -3,5 +3,4 @@
 while read -r
 do
     cut -d ":" f1,3,5
-done
-/etc/passwd
+done </etc/passwd
