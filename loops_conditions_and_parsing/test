@@ -1,28 +1,24 @@
 #!/usr/bin/env bash
-COUNTER=1
-while [ $COUNTER -lt 21 ]
-do
-    case $COUNTER in
 
-        4)
-	    echo $COUNTER
-	    echo "bad luck from China"
-	    ;;
-	
-	9)
-	    echo $COUNTER
-	    echo "bad luck from Japan"
-	    ;;
-	
-	17)
-	    echo $COUNTER
-	    echo "bad luck from Italy"
-	    ;;
+F=school
 
-	*)
-	    echo $COUNTER
-	    ;;
-    esac
+if [ -e "$F" ]
+then
+    echo "$F exists."
+    if [ -f "$F" ]
+    then
+	echo "$F is regular file"
+    else
+	:
 
-    let COUNTER+=1
-done
+       fi
+    if [ -s "$F" ]
+       
+    then
+	echo "$F file is empty"
+    else
+	echo "$F file is not empty"
+	fi
+else 
+    echo "$F file does not exist."
+fi

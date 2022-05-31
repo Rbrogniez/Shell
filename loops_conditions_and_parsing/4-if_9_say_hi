@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
 # Add If rule
 n=0
-while [ $n -lt 11 ]
+while [ $n -lt 10 ]
 do
-    if [ $n -eq 9 ]
+    if [ $n -eq 8 ]
     then
 	echo "Hi"
     else

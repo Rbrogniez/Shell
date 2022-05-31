@@ -1,4 +1,0 @@
-#!/usr/bin/env bash
-for ((n=10;n>1;n--))
-do echo "Best School"
-   done

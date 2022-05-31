@@ -1,4 +1,0 @@
-#!/usr/bin/env bash
-while ((n=0;n10;n++))
-do echo "Best School"
-   done
