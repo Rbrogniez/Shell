@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+
+for ((n=1;n<101;n++))
+    if
+	(( n % 10 ))
+    then
+	echo $n
+    else
+	echo "buzz"
+	fi
+    done

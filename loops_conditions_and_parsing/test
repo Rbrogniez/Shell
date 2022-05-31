@@ -1,24 +1,19 @@
 #!/usr/bin/env bash
 
-F=school
-
-if [ -e "$F" ]
-then
-    echo "$F exists."
-    if [ -f "$F" ]
+for n in {1..100}; do
+    if [ $(( n%15 )) = 0 ] 
     then
-	echo "$F is regular file"
-    else
-	:
-
-       fi
-    if [ -s "$F" ]
-       
+	echo "FizzBuzz"
+    elif
+	[ $((n%3)) = 0 ]
     then
-	echo "$F file is empty"
-    else
-	echo "$F file is not empty"
-	fi
-else 
-    echo "$F file does not exist."
-fi
+	echo "Fizz"
+    elif
+	[ $((n%5)) = 0 ]
+    then
+	echo "Buzz"
+	
+  else
+      echo "$n"
+    fi
+done
