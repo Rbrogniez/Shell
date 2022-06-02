@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-#find and kill process
-kill -9 $(pgrep -f "sleep 2)
